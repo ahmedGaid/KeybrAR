@@ -33,7 +33,7 @@ test("render", () => {
   );
 
   isNotNull(r.queryByText("Polski"));
-  isNotNull(r.queryByText("English"));
+  isNotNull(r.queryByText("العربية"));
 
   r.unmount();
 });

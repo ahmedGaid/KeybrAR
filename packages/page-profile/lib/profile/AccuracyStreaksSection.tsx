@@ -108,6 +108,7 @@ function StreakDetails({ streak }: { streak: Streak }) {
           value={formatDate(results[0].timeStamp, {
             dateStyle: "short",
             timeStyle: "short",
+            numberingSystem: "latn",
           })}
         />
       </dd>

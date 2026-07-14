@@ -20,9 +20,16 @@ const formatPercentsOpts = {
   maximumFractionDigits: 2,
 } satisfies FormatNumberOptions;
 
+// KeybrAR: force Western digits regardless of locale (Arabic default uses
+// Arabic-Indic digits otherwise) — see keybrar-brand "Western digits" rule.
+const withLatinDigits = (opts: FormatNumberOptions): FormatNumberOptions => ({
+  numberingSystem: "latn",
+  ...opts,
+});
+
 const factory = (intl: IntlShape): IntlNumbers => {
   const formatInteger = (value: number): string => {
-    return intl.formatNumber(value, formatIntegerOpts);
+    return intl.formatNumber(value, withLatinDigits(formatIntegerOpts));
   };
   const formatNumber = (
     value: number,
@@ -33,7 +40,7 @@ const factory = (intl: IntlShape): IntlNumbers => {
         maximumFractionDigits: opts,
       };
     }
-    return intl.formatNumber(value, opts);
+    return intl.formatNumber(value, withLatinDigits(opts));
   };
   const formatPercents = (
     value: number,
@@ -50,6 +57,7 @@ const factory = (intl: IntlShape): IntlNumbers => {
         style: "percent",
       };
     }
+    opts = withLatinDigits(opts);
     // Do not round up to 100% if the value is less than one.
     // Add decimal digits instead.
     let s = intl.formatNumber(value, opts);

@@ -19,7 +19,10 @@ export function DailyStats({
   return (
     <div className={styles.root}>
       <Para align="center">
-        {formatDate(Number(date), { dateStyle: "long" })}
+        {formatDate(Number(date), {
+          dateStyle: "long",
+          numberingSystem: "latn",
+        })}
       </Para>
       <div>
         <NameValue

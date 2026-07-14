@@ -28,6 +28,7 @@ const factory = (intl: IntlShape): IntlDurations => {
           style: "unit",
           unit: "hour",
           unitDisplay: "long",
+          numberingSystem: "latn",
         }),
       );
     }
@@ -37,6 +38,7 @@ const factory = (intl: IntlShape): IntlDurations => {
           style: "unit",
           unit: "minute",
           unitDisplay: "long",
+          numberingSystem: "latn",
         }),
       );
     }
@@ -46,6 +48,7 @@ const factory = (intl: IntlShape): IntlDurations => {
           style: "unit",
           unit: "second",
           unitDisplay: "long",
+          numberingSystem: "latn",
         }),
       );
     }
@@ -60,6 +63,7 @@ const factory = (intl: IntlShape): IntlDurations => {
         style: "unit",
         unit: "second",
         unitDisplay: "long",
+        numberingSystem: "latn",
       });
     }
     const hours = Math.floor(duration / 3600);

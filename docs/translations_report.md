@@ -1,57 +1,78 @@
 # English
 
-Translated: 342 messages, 4749 words
+Translated: 347 messages, 4783 words
 
 Untranslated: 0 messages, 0 words
 
 # Afrikaans
 
-Translated: 339 messages, 4744 words
+Translated: 339 messages, 4743 words
 
-Untranslated: 3 messages, 5 words
+Untranslated: 8 messages, 40 words
 
+* *KeybrAR*
 * *Letters*
 * *Volume:*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Arabic
 
-Translated: 341 messages, 4746 words
+Translated: 345 messages, 4779 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 2 messages, 4 words
 
+* *KeybrAR*
 * *Key sounds only*
 
 # Bulgarian
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Bangla
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Catalan
 
-Translated: 310 messages, 3556 words
+Translated: 310 messages, 3555 words
 
-Untranslated: 30 messages, 1171 words
+Untranslated: 35 messages, 1206 words
 
 * *Errors*
 * *Zones:*
+* *KeybrAR*
 * *Sound theme:*
 * *Explain charts*
 * *Key sounds only*
 * *Relative Accuracy*
 * *Repeat each word:*
+* *KeybrAR — Arabic touch-typing lessons*
 * *The previous keys are also above the target speed*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 * *Generate lessons that resemble the specified programming lan...*
 * *Practice punctuation characters that are specific to a progr...*
 * *This is a histogram of the accuracies of all users, and your...*
@@ -59,63 +80,78 @@ Untranslated: 30 messages, 1171 words
 * *Generate typing lessons from the text of a book. All keys ar...*
 * *Highlight a key that must to be pressed next. Use this optio...*
 * *<p>This indicator shows the current subset of letters used t...*
-* *Repeat each word a number of times. Type a word for the firs...*
-* *See how accurate you type relative to other users. The highe...*
-* *Adjust the amount of basic punctuation characters added to t...*
-* *<p>This indicator can also be used to predict the remaining ...*
-* *<p>This is the accuracy indicator and the difference from th...*
 * ...
 
 # Czech
 
-Translated: 338 messages, 4742 words
+Translated: 338 messages, 4741 words
 
-Untranslated: 4 messages, 7 words
+Untranslated: 9 messages, 42 words
 
 * *Font:*
+* *KeybrAR*
 * *Syntax:*
 * *Sound theme:*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Danish
 
-Translated: 331 messages, 4689 words
+Translated: 331 messages, 4688 words
 
-Untranslated: 9 messages, 38 words
+Untranslated: 14 messages, 73 words
 
 * *Score*
 * *Layout*
+* *KeybrAR*
 * *Layout:*
 * *Layouts*
 * *Position*
 * *Multiplayer*
 * *Download data*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 * *Repeat each word a number of times. Type a word for the firs...*
 
 # German
 
-Translated: 339 messages, 4744 words
+Translated: 339 messages, 4743 words
 
-Untranslated: 3 messages, 5 words
+Untranslated: 8 messages, 40 words
 
+* *KeybrAR*
 * *Position*
 * *Alphabet:*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Greek
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Esperanto
 
-Translated: 77 messages, 1126 words
+Translated: 77 messages, 1125 words
 
-Untranslated: 258 messages, 3565 words
+Untranslated: 263 messages, 3600 words
 
 * *GO!*
 * *Copy*
@@ -132,40 +168,51 @@ Untranslated: 258 messages, 3565 words
 * *Errors*
 * *Typing*
 * *Zones:*
+* *KeybrAR*
 * *Layouts*
 * *Lessons*
 * *Lessons*
 * *Not set*
-* *Numbers*
 * ...
 
 # Spanish
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Estonian
 
-Translated: 338 messages, 4743 words
+Translated: 338 messages, 4742 words
 
-Untranslated: 4 messages, 6 words
+Untranslated: 9 messages, 41 words
 
 * *GO!*
 * *Font:*
+* *KeybrAR*
 * *Progress*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Persian
 
-Translated: 295 messages, 2959 words
+Translated: 295 messages, 2958 words
 
-Untranslated: 45 messages, 1768 words
+Untranslated: 50 messages, 1803 words
 
 * *Books*
 * *Zones:*
+* *KeybrAR*
 * *Syntax:*
 * *Sound theme:*
 * *Top accuracy*
@@ -173,27 +220,27 @@ Untranslated: 45 messages, 1768 words
 * *Key sounds only*
 * *Repeat each word:*
 * *Keyboard hardware emulates layout*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
 * *Circle color: {label1} – hit count, {label2} – miss count.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 * *Practice punctuation characters that are specific to a progr...*
 * *Show color coding of the keyboard zones. Use this option to ...*
 * *Bar color: {label1} – hit count, {label2} – miss count, {lab...*
 * *Generate typing lessons from the text of a book. All keys ar...*
 * *Horizontal axis: lesson number. Vertical axis: typing speed ...*
-* *<a>Benford’s law</a> is an observation that in many real-lif...*
-* *You don’t have any accuracy streaks. Consider completing a l...*
-* *These are the typing assists which help your preserve your c...*
-* *Horizontal axis: lesson number. Vertical axis: {label1} – ty...*
-* *Horizontal axis: lesson number. Vertical axis: {label1} – ty...*
 * ...
 
 # Finnish
 
-Translated: 208 messages, 2284 words
+Translated: 208 messages, 2283 words
 
-Untranslated: 128 messages, 2409 words
+Untranslated: 133 messages, 2444 words
 
 * *GO!*
 * *Time*
+* *KeybrAR*
 * *Layouts*
 * *Metrics*
 * *Not set*
@@ -211,14 +258,13 @@ Untranslated: 128 messages, 2409 words
 * *Play sounds:*
 * *Average speed*
 * *Benford’s law*
-* *Download data*
 * ...
 
 # Faroese
 
-Translated: 44 messages, 583 words
+Translated: 44 messages, 582 words
 
-Untranslated: 290 messages, 4097 words
+Untranslated: 295 messages, 4132 words
 
 * *GO!*
 * *Copy*
@@ -238,81 +284,111 @@ Untranslated: 290 messages, 4097 words
 * *Typing*
 * *Zones:*
 * *Account*
+* *KeybrAR*
 * *Layout:*
-* *Layouts*
 * ...
 
 # French
 
-Translated: 333 messages, 4544 words
+Translated: 333 messages, 4543 words
 
-Untranslated: 9 messages, 205 words
+Untranslated: 14 messages, 240 words
 
 * *Zones:*
+* *KeybrAR*
 * *Options*
 * *Volume:*
 * *Position*
 * *Alphabet:*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 * *Above are listed the longest continuous sequences of lessons...*
 * *When you focus on a new key, it is very likely that the spee...*
 * *The target speed is used to measure the confidence level and...*
 
 # Irish
 
-Translated: 337 messages, 4735 words
+Translated: 337 messages, 4734 words
 
-Untranslated: 5 messages, 14 words
+Untranslated: 10 messages, 49 words
 
 * *Zones:*
+* *KeybrAR*
 * *Smoothness:*
 * *Sound theme:*
 * *M|T|W|T|F|S|S*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Hebrew
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Croatian
 
-Translated: 337 messages, 4740 words
+Translated: 337 messages, 4739 words
 
-Untranslated: 5 messages, 9 words
+Untranslated: 10 messages, 44 words
 
 * *Font:*
 * *Reset*
+* *KeybrAR*
 * *Multiplayer*
 * *Key sounds only*
 * *Premium account price:*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Hungarian
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Indonesian
 
-Translated: 339 messages, 4744 words
+Translated: 339 messages, 4743 words
 
-Untranslated: 3 messages, 5 words
+Untranslated: 8 messages, 40 words
 
 * *GO!*
+* *KeybrAR*
 * *Volume:*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Icelandic
 
-Translated: 95 messages, 1742 words
+Translated: 95 messages, 1741 words
 
-Untranslated: 240 messages, 2949 words
+Untranslated: 245 messages, 2984 words
 
 * *GO!*
 * *Copy*
@@ -331,38 +407,48 @@ Untranslated: 240 messages, 2949 words
 * *Typing*
 * *Zones:*
 * *Account*
+* *KeybrAR*
 * *Layouts*
 * *Lessons*
-* *Metrics*
 * ...
 
 # Italian
 
-Translated: 334 messages, 4738 words
+Translated: 334 messages, 4737 words
 
-Untranslated: 7 messages, 9 words
+Untranslated: 12 messages, 44 words
 
 * *Font:*
 * *Layout*
 * *Account*
+* *KeybrAR*
 * *Layout:*
 * *Layouts*
 * *Volume:*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Japanese
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Korean
 
-Translated: 145 messages, 1297 words
+Translated: 145 messages, 1296 words
 
-Untranslated: 195 messages, 3430 words
+Untranslated: 200 messages, 3465 words
 
 * *Copy*
 * *Done*
@@ -374,6 +460,7 @@ Untranslated: 195 messages, 3430 words
 * *Visit*
 * *Typing*
 * *Zones:*
+* *KeybrAR*
 * *Lessons*
 * *Not set*
 * *Options*
@@ -383,42 +470,41 @@ Untranslated: 195 messages, 3430 words
 * *All keys*
 * *Chapters*
 * *Keyboard*
-* *Previous*
 * ...
 
 # Lithuanian
 
-Translated: 305 messages, 3388 words
+Translated: 305 messages, 3387 words
 
-Untranslated: 34 messages, 1330 words
+Untranslated: 39 messages, 1365 words
 
+* *KeybrAR*
 * *Key sounds only*
 * *Accuracy Streaks*
 * *Relative Accuracy*
 * *No accuracy streaks.*
 * *Practice numbers only.*
+* *KeybrAR — Arabic touch-typing lessons*
 * *The difference from the average value.*
 * *Download all your typing data in JSON format.*
+* *Learn Arabic touch-typing at the speed of thought.*
 * *The detailed statistics regarding your learning progress.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
 * *Permanently delete all of your typing data and reset statist...*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 * *This is a histogram of the accuracies of all users, and your...*
 * *Adjust the number of words in the lesson text. Making lesson...*
 * *Show color coding of the keyboard zones. Use this option to ...*
 * *Are you sure you want to delete all data and reset your prof...*
 * *You don’t have any accuracy streaks. Consider completing a l...*
 * *Highlight a key that must to be pressed next. Use this optio...*
-* *<p>This indicator shows the current subset of letters used t...*
-* *Repeat each word a number of times. Type a word for the firs...*
-* *See how accurate you type relative to other users. The highe...*
-* *Manually unlock the remaining letters. Use this option if wa...*
-* *Adjust the amount of capital letters added to the lesson tex...*
 * ...
 
 # Mongolian
 
 Translated: 16 messages, 378 words
 
-Untranslated: 316 messages, 4273 words
+Untranslated: 321 messages, 4307 words
 
 * *GO!*
 * *Copy*
@@ -444,9 +530,9 @@ Untranslated: 316 messages, 4273 words
 
 # Norwegian Bokmål
 
-Translated: 211 messages, 2446 words
+Translated: 211 messages, 2445 words
 
-Untranslated: 126 messages, 2250 words
+Untranslated: 131 messages, 2285 words
 
 * *Done*
 * *Help*
@@ -454,6 +540,7 @@ Untranslated: 126 messages, 2250 words
 * *Font:*
 * *Speed*
 * *Account*
+* *KeybrAR*
 * *Accuracy*
 * *Settings*
 * *Alphabet:*
@@ -467,60 +554,80 @@ Untranslated: 126 messages, 2250 words
 * *Whitespace:*
 * *Cursor shape:*
 * *Learning rate*
-* *No whitespace*
 * ...
 
 # Nepali
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Dutch
 
-Translated: 333 messages, 4736 words
+Translated: 333 messages, 4735 words
 
-Untranslated: 8 messages, 11 words
+Untranslated: 13 messages, 46 words
 
 * *Score*
 * *Zones:*
 * *Account*
+* *KeybrAR*
 * *Letters*
 * *Volume:*
 * *Multiplayer*
 * *Key sounds only*
 * *Premium account*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Polish
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Brazilian Portuguese
 
-Translated: 338 messages, 4743 words
+Translated: 338 messages, 4742 words
 
-Untranslated: 4 messages, 6 words
+Untranslated: 9 messages, 41 words
 
 * *Layout*
+* *KeybrAR*
 * *Layout:*
 * *Layouts*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # European Portuguese
 
-Translated: 319 messages, 4618 words
+Translated: 319 messages, 4617 words
 
-Untranslated: 21 messages, 109 words
+Untranslated: 26 messages, 144 words
 
 * *Books*
 * *Layout*
 * *Zones:*
+* *KeybrAR*
 * *Layout:*
 * *Layouts*
 * *Volume:*
@@ -536,20 +643,20 @@ Untranslated: 21 messages, 109 words
 * *Daily goal reached!*
 * *New letter unlocked!*
 * *Premium account price:*
-* *This is a histogram of the accuracies of all users, and your...*
-* *Repeat each word a number of times. Type a word for the firs...*
+* *KeybrAR — Arabic touch-typing lessons*
 * ...
 
 # Romanian
 
-Translated: 298 messages, 3587 words
+Translated: 298 messages, 3586 words
 
-Untranslated: 37 messages, 1118 words
+Untranslated: 42 messages, 1153 words
 
 * *Font:*
 * *Layout*
 * *Zones:*
 * *Account*
+* *KeybrAR*
 * *Layout:*
 * *Layouts*
 * *Translate*
@@ -564,62 +671,87 @@ Untranslated: 37 messages, 1118 words
 * *Start in {countDown}*
 * *Premium account price:*
 * *Enter full-screen mode.*
-* *<h1>Connecting to Server...</h1><p>Establishing connection t...*
-* *<p>The precise meaning of each indicator color is given in t...*
+* *KeybrAR — Arabic touch-typing lessons*
 * ...
 
 # Russian
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Slovak
 
-Translated: 340 messages, 4745 words
+Translated: 340 messages, 4744 words
 
-Untranslated: 2 messages, 4 words
+Untranslated: 7 messages, 39 words
 
+* *KeybrAR*
 * *Syntax:*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Slovenian
 
-Translated: 340 messages, 4745 words
+Translated: 340 messages, 4744 words
 
-Untranslated: 2 messages, 4 words
+Untranslated: 7 messages, 39 words
 
 * *Font:*
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Albanian
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Swedish
 
-Translated: 338 messages, 4743 words
+Translated: 338 messages, 4742 words
 
-Untranslated: 4 messages, 6 words
+Untranslated: 9 messages, 41 words
 
 * *Layout*
+* *KeybrAR*
 * *Layout:*
 * *Syntax:*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Thai
 
-Translated: 329 messages, 4635 words
+Translated: 329 messages, 4634 words
 
-Untranslated: 11 messages, 92 words
+Untranslated: 16 messages, 127 words
 
 * *Zones:*
+* *KeybrAR*
 * *Sound theme:*
 * *Top accuracy*
 * *Key sounds only*
@@ -627,19 +759,24 @@ Untranslated: 11 messages, 92 words
 * *Relative Accuracy*
 * *Repeat each word:*
 * *Premium account price:*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 * *This is a histogram of the accuracies of all users, and your...*
 * *Repeat each word a number of times. Type a word for the firs...*
 * *See how accurate you type relative to other users. The highe...*
 
 # Turkish
 
-Translated: 227 messages, 2126 words
+Translated: 227 messages, 2125 words
 
-Untranslated: 110 messages, 2568 words
+Untranslated: 115 messages, 2603 words
 
 * *Books*
 * *Font:*
 * *Zones:*
+* *KeybrAR*
 * *Metrics*
 * *Preview*
 * *Sign-In*
@@ -656,47 +793,71 @@ Untranslated: 110 messages, 2568 words
 * *Bar whitespace*
 * *Emulate layout*
 * *Explain charts*
-* *Highlight keys*
 * ...
 
 # Ukrainian
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Vietnamese
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Simplified Chinese
 
-Translated: 340 messages, 4739 words
+Translated: 340 messages, 4738 words
 
-Untranslated: 2 messages, 10 words
+Untranslated: 7 messages, 45 words
 
+* *KeybrAR*
 * *M|T|W|T|F|S|S*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Traditional Chinese
 
-Translated: 341 messages, 4746 words
+Translated: 341 messages, 4745 words
 
-Untranslated: 1 messages, 3 words
+Untranslated: 6 messages, 38 words
 
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
 
 # Chinese (Taiwan)
 
-Translated: 340 messages, 4745 words
+Translated: 340 messages, 4744 words
 
-Untranslated: 2 messages, 4 words
+Untranslated: 7 messages, 39 words
 
 * *GO!*
+* *KeybrAR*
 * *Key sounds only*
+* *KeybrAR — Arabic touch-typing lessons*
+* *Learn Arabic touch-typing at the speed of thought.*
+* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
+* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*

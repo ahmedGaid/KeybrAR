@@ -17,6 +17,8 @@ export function SubMenu({ currentPath }: { readonly currentPath: string }) {
       <MailLink />
       <DiscordLink />
       <GithubLink />
+      <AttributionLink />
+      <WordsCreditLink />
       <RouterLink to={Pages.termsOfService.path}>
         {formatMessage(Pages.termsOfService.link.label)}
       </RouterLink>
@@ -66,14 +68,48 @@ function GithubLink() {
   const { formatMessage } = useIntl();
   return (
     <StaticLink
-      href="https://github.com/aradzie/keybr.com"
+      href="https://github.com/ahmedGaid/KeybrAR"
       target="github"
       title={formatMessage({
         id: "footer.githubLink.description",
-        defaultMessage: "The source code of keybr.com is available on Github.",
+        defaultMessage: "The source code of KeybrAR is available on Github.",
       })}
     >
       Github
+    </StaticLink>
+  );
+}
+
+function AttributionLink() {
+  const { formatMessage } = useIntl();
+  return (
+    <StaticLink
+      href="https://keybr.com"
+      target="keybrcom"
+      title={formatMessage({
+        id: "footer.attributionLink.description",
+        defaultMessage:
+          "KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.",
+      })}
+    >
+      keybr.com
+    </StaticLink>
+  );
+}
+
+function WordsCreditLink() {
+  const { formatMessage } = useIntl();
+  return (
+    <StaticLink
+      href="https://github.com/hermitdave/FrequencyWords"
+      target="frequencywords"
+      title={formatMessage({
+        id: "footer.wordsCreditLink.description",
+        defaultMessage:
+          "Arabic word data from hermitdave/FrequencyWords, licensed CC BY-SA 4.0.",
+      })}
+    >
+      FrequencyWords
     </StaticLink>
   );
 }

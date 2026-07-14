@@ -21,18 +21,18 @@ import { createContext, useContext } from "react";
 
 export type LocaleId = string;
 
-export const defaultLocale: LocaleId = "en";
+export const defaultLocale: LocaleId = "ar";
 
 export const allLocales: readonly LocaleId[] = [
   defaultLocale,
   "af",
-  "ar",
   "bg",
   "ca",
   "cs",
   "da",
   "de",
   "el",
+  "en",
   "eo",
   "es",
   "et",
