@@ -1,39 +1,38 @@
 # KeybrAR — Master Plan Index
 
-Load this file first in every session.
+Load this file first in every session. **v2 (2026-07-14): re-planned after discovering upstream
+ships Arabic; product pivot per `SPEC_V2.md` (Arabic-first + paid course + own design).**
 
 ## Project Goal
 
-Build **KeybrAR** — a free Arabic-first touch-typing tutor website with all keybr.com features
-(adaptive letter-unlock lessons, per-key confidence model, live WPM/accuracy, profile stats,
-typing test, custom text, multiplayer races, high scores, accounts). Method: fork the open-source
-keybr.com (AGPL-3.0), add Arabic language + keyboard layout + RTL + Arabic UI, rebrand, deploy on
-a VPS behind free Cloudflare. Target load: ~5,000 daily users.
+Build **KeybrAR** — Arabic-first touch-typing tutor website. Free tier = all keybr.com features
+(adaptive lessons, per-key confidence, WPM/accuracy, profile stats, typing test, multiplayer,
+accounts) with Arabic-first defaults and KeybrAR design. Paid tier (Paddle) = structured Arabic
+typing course (5 units, ~30 lessons). Fork of keybr.com (AGPL-3.0), deploy on VPS behind free
+Cloudflare. Target ~5,000 daily users. Full product spec: **`SPEC_V2.md`**.
 
-## Key facts (verified 2026-07-14)
+## Key facts (verified 2026-07-14, session 1)
 
 - Upstream: https://github.com/aradzie/keybr.com — TypeScript monorepo, lage task runner,
-  Node server, Dockerfile + docker-compose.yaml included. License **AGPL-3.0** → our fork's
-  source MUST stay public, and the running site must link to its source.
-- Our repo: https://github.com/ahmedGaid/KeybrAR.git (currently empty; keep **public**).
-- Local path: `C:\AhmedGaid\keybrAR` (currently empty — clone target).
-- keybr has **no Arabic yet** (open request: upstream Discussion #153) — we add it.
-- Framework already supports `direction: "rtl"` in the Language class (per
-  `docs/custom_language.md`), so RTL is a supported path, not a hack.
-- Official extension docs exist in the repo: `docs/custom_language.md`, `docs/custom_keyboard.md`.
-  They are the source of truth; re-read them in-repo before each related session.
+  Node server, Dockerfile + docker-compose.yaml (single container, SQLite via knex).
+  License **AGPL-3.0** → fork source MUST stay public; live site links to source.
+- Our repo: https://github.com/ahmedGaid/KeybrAR.git (public). Local: `C:\AhmedGaid\keybrAR`.
+- **Upstream already ships Arabic**: Language.AR (rtl), dictionary/model/words, layouts
+  `ar-sa` + `ar-sa-102`, full `ar` UI locale. Verified working in session 1.
+- Upstream premium machinery exists: Paddle webhook `/_/checkout` → `order` row →
+  `user.premium` (`isPremiumUser` in keybr-pages-shared). We gate the course with it.
+- Pages pattern: `Pages.*` entry (keybr-pages-shared/pages.ts) + `page-*` package + router
+  wiring. Themes = `theme-N-name.less` in keybr-themes. Arabic webfont already in assets.
+- Windows dev env facts + build quirks → `keybrar-status` skill.
 
-## Affected files (expected — verify in-repo)
+## New/changed surfaces (v2 — verify in-repo each session)
 
-- `packages/keybr-keyboard/lib/language.ts` — add Arabic Language entry
-- `packages/keybr-generators/dictionaries/dictionary-ar.csv.gz` — new word-frequency dictionary
-- `packages/keybr-phonetic-model/assets/model-ar.data` — generated
-- `packages/keybr-content-words/lib/data/words-ar.json` — generated
-- `packages/keybr-keyboard-generator/layout/ar_sa_101.ts` (name TBD) — new layout file
-- `packages/keybr-keyboard/lib/layout.ts` — add Layout entry
-- Translation/message files for the `ar` UI locale (locate in session 4)
-- Branding: site name, logo, landing copy, footer (locate in session 4)
-- Deploy config: docker-compose / env files (session 5)
+- NEW `packages/keybr-content-course` — curriculum data (units/lessons/drills)
+- NEW `packages/page-course` — course map + lesson player (reuses typing engine)
+- NEW `course_progress` table + `/_/course/progress` API
+- NEW `theme-8-keybrar.less` + logo + redesigned landing
+- CHANGED (small, tracked in UPSTREAM_DIFFS.md): defaultLocale→ar, lesson defaults→ar/ar-sa,
+  brand meta/footer, pages.ts + router entries
 
 ## Never touch
 
@@ -43,16 +42,20 @@ a VPS behind free Cloudflare. Target load: ~5,000 daily users.
 - Upstream test files unrelated to Arabic.
 - License files — AGPL text and upstream attribution stay.
 
-## Session Map
+## Session Map (v2)
 
-| # | File | What gets built | Est. |
-|---|------|-----------------|------|
-| 1 | FILE_01_FORK_BUILD.md | Clone upstream → push to KeybrAR repo, local build + dev server running, RTL status verified | 30–60 min |
-| 2 | FILE_02_ARABIC_LANGUAGE.md | Arabic Language entry + frequency dictionary + generated phonetic model & words | 30–45 min |
-| 3 | FILE_03_ARABIC_LAYOUT.md | Arabic 101 keyboard layout + RTL typing surface working end-to-end | 30–45 min |
-| 4 | FILE_04_AR_UI_BRAND.md | Arabic UI translation, RTL page shell, Arabic-first default, KeybrAR branding | 30–45 min |
-| 5 | FILE_05_DEPLOY.md | VPS deploy (docker-compose) + Cloudflare free in front + OAuth + AGPL source link | 30–60 min |
-| 6 | FILE_06_ACCEPTANCE.md | Full-feature QA, regression vs upstream behavior, launch sign-off | 30 min |
+| # | File | What gets built | Status |
+|---|------|-----------------|--------|
+| 1 | FILE_01_FORK_BUILD.md | Fork + Windows build + dev server + Arabic/RTL baseline | ✅ DONE |
+| 2 | FILE_02_ARABIC_FIRST.md | Arabic quality audit + Arabic-first defaults (`/`=ar) + rebrand basics | |
+| 3 | FILE_03_THEME_LANDING.md | KeybrAR theme (default) + logo + redesigned landing | |
+| 4 | FILE_04_COURSE_ENGINE.md | Course content package + /course page + lesson player, unit 1 free | |
+| 5 | FILE_05_PREMIUM.md | Progress DB/API + premium gating + Paddle checkout (sandbox) | |
+| 6 | FILE_06_CURRICULUM.md | Full curriculum units 2–5 + Arabic copy polish | |
+| 7 | FILE_07_DEPLOY.md | VPS + Cloudflare + OAuth + Paddle production | |
+| 8 | FILE_08_ACCEPTANCE.md | Full QA, regression vs upstream, launch sign-off | |
+
+**Prereq for S5/S7 (Ahmed, start early):** Paddle seller account — approval can take days.
 
 ## Ground Rules (every session)
 
@@ -60,8 +63,11 @@ a VPS behind free Cloudflare. Target load: ~5,000 daily users.
    snippets are drafts — the in-repo docs and existing patterns win on any conflict.
 2. **Additive only.** We extend keybr with Arabic; we do not refactor upstream code. Smallest
    diff that works — keeps future `git merge upstream/master` cheap.
-3. **Follow the neighbor.** New language/layout entries copy the exact shape of an existing entry
-   (use Hebrew/Farsi if present — closest RTL precedent — else Greek/Russian for non-Latin).
+3. **Follow the neighbor.** New packages/pages/entries copy the exact shape of an existing one
+   (page-typing-test for the course player, keybr-content-words for data packages,
+   theme-1-light for themes).
+3b. **Track shared-file diffs.** Any change to an upstream file goes into
+   `docs/plan/UPSTREAM_DIFFS.md` — that list is the merge-conflict budget.
 4. **Gates before done.** Whatever upstream uses (lint, typecheck, tests via lage) must pass, and
    the dev server must run, before a session ends.
 5. **Commit per session** to `main` of KeybrAR repo, push. Message format:
@@ -77,8 +83,8 @@ a VPS behind free Cloudflare. Target load: ~5,000 daily users.
 
 ## After all sessions complete
 
-- Run FILE_06 acceptance in full.
+- Run FILE_08 acceptance in full.
 - Point the production domain via Cloudflare, announce.
 - Set a recurring task to pull upstream fixes: `git fetch upstream && git merge upstream/master`.
 
-*Generated by ag-plan skill. Do not edit this index manually.*
+*Generated by ag-plan skill (v2 revision 2026-07-14). Do not edit this index manually.*

@@ -1,4 +1,4 @@
-# SESSION 5 — Deploy: VPS + Cloudflare Free + OAuth
+# SESSION 7 — Deploy: VPS + Cloudflare Free + OAuth + Paddle production
 # Files: docker-compose / .env (production), Cloudflare DNS config, no app-code changes expected
 
 ---
@@ -49,6 +49,13 @@ Do not change anything yet.
 Security note (normal prose): treat the `.env` file as the only place secrets live; restrict
 file permissions (`chmod 600 .env`), and keep VPS SSH key-only (disable password auth).
 
+## Task C2 — Paddle production
+
+1. Switch Paddle from sandbox to live: production `PADDLE_TOKEN` + `PADDLE_PRICE_ID` in `.env`.
+2. Paddle dashboard → webhook destination = `https://<domain>/_/checkout` (must bypass
+   Cloudflare cache; verify it reaches the origin).
+3. One real low-price test purchase → premium activates → refund it.
+
 ## Task D — Ops minimum
 
 1. `docker compose restart` policy `unless-stopped` on services.
@@ -67,6 +74,7 @@ file permissions (`chmod 600 .env`), and keep VPS SSH key-only (disable password
 - [ ] `docker compose down && up -d` → data still there
 - [ ] Backup cron ran once; restore tested
 - [ ] Footer source link points to public KeybrAR repo (AGPL satisfied on the live site)
+- [ ] Paddle live webhook hits origin; test purchase → premium → refund done
 
 ---
 
@@ -74,6 +82,7 @@ file permissions (`chmod 600 .env`), and keep VPS SSH key-only (disable password
 
 ```
 Smoke test passed?
-→ Type /compact in Claude Code
-→ Open FILE_06_ACCEPTANCE.md and continue
+→ Update keybrar-status (NEXT = FILE_08)
+→ Clear session, fresh one
+→ Open FILE_08_ACCEPTANCE.md and continue
 ```

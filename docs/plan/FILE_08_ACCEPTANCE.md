@@ -1,4 +1,4 @@
-# SESSION 6 — Acceptance, Regression, Launch Sign-off
+# SESSION 8 — Acceptance, Regression, Launch Sign-off
 # Files: none (fix-only session — small patches for anything failing below)
 
 ---
@@ -28,10 +28,17 @@ Other features (inherited from keybr — must all work):
 - [ ] Themes (dark/light) fine in RTL
 - [ ] English practice still fully works (we ADDED Arabic, broke nothing)
 
+Course + premium (SPEC_V2):
+- [ ] /course map renders both locales; unit 1 completable end-to-end anonymous
+- [ ] Signed-in free user: progress in DB, units 2–5 locked, PUT to locked lesson → 403
+- [ ] Real (or sandbox) Paddle purchase → premium → all units unlock; progress survives
+- [ ] Pass gates enforced; no drill uses an untaught key (data test green)
+- [ ] Course Arabic copy passes keybrar-brand read-aloud check
+
 UI/i18n:
 - [ ] ar UI complete on all main screens — no English leakage in ar mode (except brand name)
 - [ ] en UI intact
-- [ ] Locale + practice-language defaults per FILE_04
+- [ ] `/` Arabic RTL default, `/en` English; new-visitor lesson defaults ar + ar-sa (FILE_02)
 
 Deploy/legal:
 - [ ] Cloudflare caching working, WebSockets working
@@ -43,8 +50,8 @@ Deploy/legal:
 
 - [ ] Pick 3 upstream languages (en, ru, he-if-present): lesson, stats, layout switch all normal
 - [ ] Upstream test suite green on our fork
-- [ ] `git merge upstream/master` dry-run has no conflicts in files we touched beyond expected
-      (language.ts, layout.ts) — confirms additive discipline held
+- [ ] `git merge upstream/master` dry-run conflicts only in files listed in UPSTREAM_DIFFS.md
+      — confirms additive discipline held
 
 ## Micro-polish pass (apply if missing)
 
@@ -55,9 +62,9 @@ Deploy/legal:
 
 ## Sign-off block
 
-Built: KeybrAR — Arabic-first fork of keybr.com: Arabic phonetic model + dictionary, Arabic 101
-layout, RTL typing + RTL UI shell, full ar UI locale, KeybrAR brand, VPS + Cloudflare deploy,
-Google OAuth, AGPL compliance links.
+Built: KeybrAR — Arabic-first fork of keybr.com: Arabic-first defaults (RTL `/`), KeybrAR theme
++ landing, paid structured Arabic typing course (5 units, Paddle premium gating, progress API),
+VPS + Cloudflare deploy, Google OAuth, AGPL compliance links.
 
 Not touched: adaptive algorithm internals, upstream auth logic, upstream tests, license files.
 
