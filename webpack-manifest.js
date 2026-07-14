@@ -1,4 +1,6 @@
-import { basename, extname, join } from "node:path";
+import { basename, extname } from "node:path";
+// URL paths, not filesystem paths — always use "/" even on Windows.
+import { join } from "node:path/posix";
 import webpack from "webpack";
 
 const {
