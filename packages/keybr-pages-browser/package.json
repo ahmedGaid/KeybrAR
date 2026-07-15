@@ -8,6 +8,7 @@
     "@keybr/intl": "*",
     "@keybr/keyboard": "*",
     "@keybr/page-account": "*",
+    "@keybr/page-course": "*",
     "@keybr/page-help": "*",
     "@keybr/page-highscores": "*",
     "@keybr/page-layouts": "*",

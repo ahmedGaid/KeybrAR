@@ -1,0 +1,53 @@
+@import "@keybr/widget/lib/index.less";
+
+.root {
+  .text-center();
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  align-items: center;
+  max-inline-size: 26rem;
+  margin-inline: auto;
+  padding: 2rem;
+}
+
+.headline {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.headline.pass {
+  color: var(--accent);
+}
+
+.headline.fail {
+  color: var(--text-color);
+}
+
+.stats {
+  display: flex;
+  gap: 2rem;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.statValue {
+  color: var(--text-color);
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.statLabel {
+  color: var(--text-color-f1);
+  font-size: 0.85rem;
+}
+
+.actions {
+  display: flex;
+  gap: 1rem;
+}

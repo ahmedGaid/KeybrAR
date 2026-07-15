@@ -1,0 +1,71 @@
+@import "@keybr/widget/lib/index.less";
+
+.root {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.unit {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.unitTitle {
+  margin: 0;
+  color: var(--text-color);
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.lessons {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+  gap: 0.75rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  color: var(--text-color);
+  background-color: var(--primary-l1);
+  font: inherit;
+  text-align: start;
+  cursor: pointer;
+}
+
+.card:focus-visible {
+  outline: 2px solid var(--accent);
+}
+
+.cardDone {
+  background-color: var(--accent-l2);
+}
+
+.cardLocked {
+  align-items: center;
+  color: var(--text-color-f1);
+  text-align: center;
+  cursor: default;
+}
+
+.cardTitle {
+  font-weight: bold;
+}
+
+.cardMeta {
+  color: var(--text-color-f1);
+  font-size: 0.8rem;
+}
+
+.lockIcon {
+  inline-size: 1.5rem;
+  block-size: 1.5rem;
+  fill: var(--text-color-f1);
+}

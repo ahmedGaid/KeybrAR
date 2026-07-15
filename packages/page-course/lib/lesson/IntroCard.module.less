@@ -1,0 +1,47 @@
+@import "@keybr/widget/lib/index.less";
+
+.root {
+  .text-center();
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  align-items: center;
+  max-inline-size: 30rem;
+  margin-inline: auto;
+  padding: 2rem;
+}
+
+.title {
+  margin: 0;
+  color: var(--text-color);
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.keys {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.key {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-inline-size: 2.5rem;
+  block-size: 2.5rem;
+  padding-inline: 0.5rem;
+  border-radius: 0.4rem;
+  color: var(--text-color);
+  background-color: var(--primary-l1);
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.hint {
+  margin: 0;
+  color: var(--text-color-f1);
+  font-size: 1rem;
+  line-height: 1.5;
+}

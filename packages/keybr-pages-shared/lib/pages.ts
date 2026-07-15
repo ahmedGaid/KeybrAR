@@ -5,6 +5,7 @@ import {
   mdiHelpCircleOutline,
   mdiKeyboard,
   mdiKeyboardOutline,
+  mdiSchool,
   mdiSpeedometer,
   mdiTrophyOutline,
 } from "@mdi/js";
@@ -233,6 +234,35 @@ export namespace Pages {
         content: defineMessage({
           id: "page.typingTest.description",
           defaultMessage: "Typing speed and accuracy test.",
+        }),
+      },
+    ],
+  } satisfies PageInfo;
+
+  export const course = {
+    path: "/course",
+    title: defineMessage({
+      id: "t_Course",
+      defaultMessage: "Course",
+    }),
+    link: {
+      label: defineMessage({
+        id: "t_Course",
+        defaultMessage: "Course",
+      }),
+      title: defineMessage({
+        id: "page.course.description",
+        defaultMessage: "A structured Arabic touch-typing course.",
+      }),
+      icon: mdiSchool,
+    },
+    meta: [
+      ...meta,
+      {
+        name: "description",
+        content: defineMessage({
+          id: "page.course.description",
+          defaultMessage: "A structured Arabic touch-typing course.",
         }),
       },
     ],

@@ -94,6 +94,36 @@ files (new packages, new pages) are NOT listed — only edits to shared files.
   under the new Arabic-default keyboard the guided lesson generator found zero
   letter overlap and threw / filtered out the Latin custom text.
 
+## Session 4 — course engine (unit 1 free)
+
+- `packages/keybr-pages-shared/lib/pages.ts` — added `Pages.course` entry
+  (`/course`, icon `mdiSchool`, `t_Course`/`page.course.description`).
+- `packages/keybr-pages-browser/lib/App.tsx` — added `/course` and
+  `/course/:lessonId` routes (lazy `pages/course.tsx`, new additive file).
+- `packages/keybr-pages-browser/lib/NavMenu.tsx` — added a nav link for
+  `Pages.course`.
+- `packages/keybr-pages-browser/package.json` — added `@keybr/page-course`
+  dependency.
+- `packages/keybr-pages-server/lib/Shell.tsx` — added `Pages.course` to the
+  no-JS fallback `<nav>` list.
+- `packages/server/lib/app/page/controller.tsx` — added GET routes for
+  `/course`, `/{locale}/course`, `/course/{lessonId}`,
+  `/{locale}/course/{lessonId}` (SSR shell only; the client router owns the
+  lesson param).
+- `packages/server/lib/app/sitemap/controller.ts` — added `Pages.course` to
+  the sitemap page list.
+- `packages/page-practice/lib/landing/Landing.tsx` — course CTA now links to
+  `Pages.course.path` instead of `Pages.account.path` (S3 placeholder now
+  resolved); removed the now-stale "lands in S4" comment.
+- `packages/keybr-intl/translations/en.json` + `ar.json` (source) and
+  generated `lib/messages/*.json` (via `npm run translate`) — added
+  `t_Course`, `page.course.description`, and 11 `course.*` keys (lesson
+  intro/drill progress, map card states, pass/fail result screen).
+
+New additive-only packages (not merge-conflict risk): `keybr-content-course`
+(unit/lesson data + types) and `page-course` (course map, lesson player,
+localStorage progress v1).
+
 ### Explicitly NOT touched (traps identified during audit)
 
 - `scripts/locale.js` — a **separate**, hardcoded `defaultLocale = "en"` used

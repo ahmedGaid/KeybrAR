@@ -1,6 +1,6 @@
 # English
 
-Translated: 357 messages, 4841 words
+Translated: 371 messages, 4867 words
 
 Untranslated: 0 messages, 0 words
 
@@ -8,30 +8,33 @@ Untranslated: 0 messages, 0 words
 
 Translated: 339 messages, 4743 words
 
-Untranslated: 18 messages, 98 words
+Untranslated: 31 messages, 120 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
 * *Letters*
 * *Volume:*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
 * *Progress Tracking*
 * *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Arabic
 
-Translated: 355 messages, 4837 words
+Translated: 369 messages, 4863 words
 
 Untranslated: 2 messages, 4 words
 
@@ -42,9 +45,21 @@ Untranslated: 2 messages, 4 words
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -52,22 +67,27 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Bangla
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -75,129 +95,139 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Catalan
 
 Translated: 310 messages, 3555 words
 
-Untranslated: 45 messages, 1264 words
+Untranslated: 58 messages, 1286 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *Errors*
 * *Zones:*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Sound theme:*
 * *Explain charts*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
-* *Progress Tracking*
-* *Relative Accuracy*
-* *Repeat each word:*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *The previous keys are also above the target speed*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
 * ...
 
 # Czech
 
 Translated: 338 messages, 4741 words
 
-Untranslated: 19 messages, 100 words
+Untranslated: 32 messages, 122 words
 
+* *WPM*
+* *Next*
 * *Font:*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
 * *Syntax:*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Sound theme:*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
 * *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Danish
 
 Translated: 331 messages, 4688 words
 
-Untranslated: 24 messages, 131 words
+Untranslated: 37 messages, 153 words
 
+* *WPM*
+* *Next*
+* *Retry*
 * *Score*
+* *Start*
+* *Course*
 * *Layout*
 * *KeybrAR*
 * *Layout:*
 * *Layouts*
+* *Accuracy*
 * *Position*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
 * *Multiplayer*
+* *Premium plan*
 * *Download data*
-* *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
 * ...
 
 # German
 
 Translated: 339 messages, 4743 words
 
-Untranslated: 18 messages, 98 words
+Untranslated: 31 messages, 120 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
 * *Position*
 * *Alphabet:*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
 * *Progress Tracking*
 * *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Greek
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -205,339 +235,20 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Esperanto
 
 Translated: 77 messages, 1125 words
 
-Untranslated: 273 messages, 3658 words
+Untranslated: 286 messages, 3680 words
 
 * *GO!*
+* *WPM*
 * *Copy*
 * *Done*
 * *Help*
 * *Next*
-* *Time*
-* *Books*
-* *Close*
-* *Font:*
-* *Reset*
-* *Speed*
-* *Visit*
-* *Errors*
-* *Typing*
-* *Zones:*
-* *KeybrAR*
-* *Layouts*
-* *Lessons*
-* *Lessons*
-* *Not set*
-* ...
-
-# Spanish
-
-Translated: 341 messages, 4745 words
-
-Untranslated: 16 messages, 96 words
-
-* *KeybrAR*
-* *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
-
-# Estonian
-
-Translated: 338 messages, 4742 words
-
-Untranslated: 19 messages, 99 words
-
-* *GO!*
-* *Font:*
-* *KeybrAR*
-* *Progress*
-* *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
-
-# Persian
-
-Translated: 295 messages, 2958 words
-
-Untranslated: 60 messages, 1861 words
-
-* *Books*
-* *Zones:*
-* *KeybrAR*
-* *Syntax:*
-* *Sound theme:*
-* *Top accuracy*
-* *Explain charts*
-* *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Repeat each word:*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *Keyboard hardware emulates layout*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* ...
-
-# Finnish
-
-Translated: 208 messages, 2283 words
-
-Untranslated: 143 messages, 2502 words
-
-* *GO!*
-* *Time*
-* *KeybrAR*
-* *Layouts*
-* *Metrics*
-* *Not set*
-* *Syntax:*
-* *Position*
-* *Practice*
-* *Settings*
-* *Top speed*
-* *Uncertain*
-* *Characters*
-* *Top speed!*
-* *High Scores*
-* *Multiplayer*
-* *Smoothness:*
-* *Play sounds:*
-* *Average speed*
-* *Benford’s law*
-* ...
-
-# Faroese
-
-Translated: 44 messages, 582 words
-
-Untranslated: 305 messages, 4190 words
-
-* *GO!*
-* *Copy*
-* *Done*
-* *Help*
-* *Next*
-* *Time*
-* *Books*
-* *Close*
-* *Font:*
-* *Reset*
-* *Speed*
-* *Speed*
-* *Visit*
-* *Errors*
-* *Layout*
-* *Typing*
-* *Zones:*
-* *Account*
-* *KeybrAR*
-* *Layout:*
-* ...
-
-# French
-
-Translated: 333 messages, 4543 words
-
-Untranslated: 24 messages, 298 words
-
-* *Zones:*
-* *KeybrAR*
-* *Options*
-* *Volume:*
-* *Position*
-* *Alphabet:*
-* *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* ...
-
-# Irish
-
-Translated: 337 messages, 4734 words
-
-Untranslated: 20 messages, 107 words
-
-* *Zones:*
-* *KeybrAR*
-* *Smoothness:*
-* *Sound theme:*
-* *M|T|W|T|F|S|S*
-* *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
-
-# Hebrew
-
-Translated: 341 messages, 4745 words
-
-Untranslated: 16 messages, 96 words
-
-* *KeybrAR*
-* *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
-
-# Croatian
-
-Translated: 337 messages, 4739 words
-
-Untranslated: 20 messages, 102 words
-
-* *Font:*
-* *Reset*
-* *KeybrAR*
-* *Multiplayer*
-* *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Premium account price:*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
-
-# Hungarian
-
-Translated: 341 messages, 4745 words
-
-Untranslated: 16 messages, 96 words
-
-* *KeybrAR*
-* *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
-
-# Indonesian
-
-Translated: 339 messages, 4743 words
-
-Untranslated: 18 messages, 98 words
-
-* *GO!*
-* *KeybrAR*
-* *Volume:*
-* *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
-
-# Icelandic
-
-Translated: 95 messages, 1741 words
-
-Untranslated: 255 messages, 3042 words
-
-* *GO!*
-* *Copy*
-* *Done*
-* *Help*
 * *Next*
 * *Time*
 * *Books*
@@ -546,51 +257,397 @@ Untranslated: 255 messages, 3042 words
 * *Reset*
 * *Retry*
 * *Speed*
+* *Start*
 * *Visit*
+* *Course*
 * *Errors*
 * *Typing*
 * *Zones:*
-* *Account*
+* ...
+
+# Spanish
+
+Translated: 341 messages, 4745 words
+
+Untranslated: 29 messages, 118 words
+
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
+* *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
+* *Key sounds only*
+* *Start the Course*
+* *Adaptive Practice*
+* *Progress Tracking*
+* *Structured Course*
+* *Ready for the next level?*
+* *Learn touch typing in Arabic*
+* ...
+
+# Estonian
+
+Translated: 338 messages, 4742 words
+
+Untranslated: 32 messages, 121 words
+
+* *GO!*
+* *WPM*
+* *Next*
+* *Font:*
+* *Retry*
+* *Start*
+* *Course*
+* *KeybrAR*
+* *Accuracy*
+* *Progress*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
+* *Key sounds only*
+* *Start the Course*
+* *Adaptive Practice*
+* *Progress Tracking*
+* ...
+
+# Persian
+
+Translated: 295 messages, 2958 words
+
+Untranslated: 73 messages, 1883 words
+
+* *WPM*
+* *Next*
+* *Books*
+* *Retry*
+* *Start*
+* *Course*
+* *Zones:*
+* *KeybrAR*
+* *Syntax:*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
+* *Sound theme:*
+* *Top accuracy*
+* *Explain charts*
+* *Key sounds only*
+* ...
+
+# Finnish
+
+Translated: 208 messages, 2283 words
+
+Untranslated: 156 messages, 2524 words
+
+* *GO!*
+* *WPM*
+* *Next*
+* *Time*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
 * *Layouts*
-* *Lessons*
+* *Metrics*
+* *Not set*
+* *Syntax:*
+* *Accuracy*
+* *Position*
+* *Practice*
+* *Settings*
+* *Available*
+* *Completed*
+* *Top speed*
+* *Try again*
+* ...
+
+# Faroese
+
+Translated: 44 messages, 582 words
+
+Untranslated: 318 messages, 4212 words
+
+* *GO!*
+* *WPM*
+* *Copy*
+* *Done*
+* *Help*
+* *Next*
+* *Next*
+* *Time*
+* *Books*
+* *Close*
+* *Font:*
+* *Reset*
+* *Retry*
+* *Speed*
+* *Speed*
+* *Start*
+* *Visit*
+* *Course*
+* *Errors*
+* *Layout*
+* ...
+
+# French
+
+Translated: 333 messages, 4543 words
+
+Untranslated: 37 messages, 320 words
+
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
+* *Zones:*
+* *KeybrAR*
+* *Options*
+* *Volume:*
+* *Accuracy*
+* *Position*
+* *Alphabet:*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
+* *Key sounds only*
+* *Start the Course*
+* ...
+
+# Irish
+
+Translated: 337 messages, 4734 words
+
+Untranslated: 33 messages, 129 words
+
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
+* *Zones:*
+* *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Smoothness:*
+* *Premium plan*
+* *Sound theme:*
+* *M|T|W|T|F|S|S*
+* *Key sounds only*
+* *Start the Course*
+* *Adaptive Practice*
+* ...
+
+# Hebrew
+
+Translated: 341 messages, 4745 words
+
+Untranslated: 29 messages, 118 words
+
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
+* *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
+* *Key sounds only*
+* *Start the Course*
+* *Adaptive Practice*
+* *Progress Tracking*
+* *Structured Course*
+* *Ready for the next level?*
+* *Learn touch typing in Arabic*
+* ...
+
+# Croatian
+
+Translated: 337 messages, 4739 words
+
+Untranslated: 33 messages, 124 words
+
+* *WPM*
+* *Next*
+* *Font:*
+* *Reset*
+* *Retry*
+* *Start*
+* *Course*
+* *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Multiplayer*
+* *Premium plan*
+* *Key sounds only*
+* *Start the Course*
+* *Adaptive Practice*
+* *Progress Tracking*
+* ...
+
+# Hungarian
+
+Translated: 341 messages, 4745 words
+
+Untranslated: 29 messages, 118 words
+
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
+* *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
+* *Key sounds only*
+* *Start the Course*
+* *Adaptive Practice*
+* *Progress Tracking*
+* *Structured Course*
+* *Ready for the next level?*
+* *Learn touch typing in Arabic*
+* ...
+
+# Indonesian
+
+Translated: 339 messages, 4743 words
+
+Untranslated: 31 messages, 120 words
+
+* *GO!*
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
+* *KeybrAR*
+* *Volume:*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
+* *Key sounds only*
+* *Start the Course*
+* *Adaptive Practice*
+* *Progress Tracking*
+* *Structured Course*
+* ...
+
+# Icelandic
+
+Translated: 95 messages, 1741 words
+
+Untranslated: 268 messages, 3064 words
+
+* *GO!*
+* *WPM*
+* *Copy*
+* *Done*
+* *Help*
+* *Next*
+* *Next*
+* *Time*
+* *Books*
+* *Close*
+* *Font:*
+* *Reset*
+* *Retry*
+* *Retry*
+* *Speed*
+* *Start*
+* *Visit*
+* *Course*
+* *Errors*
+* *Typing*
 * ...
 
 # Italian
 
 Translated: 334 messages, 4737 words
 
-Untranslated: 22 messages, 102 words
+Untranslated: 35 messages, 124 words
 
+* *WPM*
+* *Next*
 * *Font:*
+* *Retry*
+* *Start*
+* *Course*
 * *Layout*
 * *Account*
 * *KeybrAR*
 * *Layout:*
 * *Layouts*
 * *Volume:*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
 * ...
 
 # Japanese
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -598,29 +655,27 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Korean
 
 Translated: 145 messages, 1296 words
 
-Untranslated: 210 messages, 3523 words
+Untranslated: 223 messages, 3545 words
 
+* *WPM*
 * *Copy*
 * *Done*
+* *Next*
 * *Next*
 * *Books*
 * *Close*
 * *Font:*
 * *Reset*
+* *Retry*
+* *Start*
 * *Visit*
+* *Course*
 * *Typing*
 * *Zones:*
 * *KeybrAR*
@@ -628,20 +683,27 @@ Untranslated: 210 messages, 3523 words
 * *Not set*
 * *Options*
 * *Preview*
-* *Syntax:*
-* *Volume:*
-* *All keys*
-* *Chapters*
-* *Keyboard*
 * ...
 
 # Lithuanian
 
 Translated: 305 messages, 3387 words
 
-Untranslated: 49 messages, 1423 words
+Untranslated: 62 messages, 1445 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Accuracy Streaks*
 * *Start the Course*
@@ -649,30 +711,20 @@ Untranslated: 49 messages, 1423 words
 * *Progress Tracking*
 * *Relative Accuracy*
 * *Structured Course*
-* *No accuracy streaks.*
-* *Practice numbers only.*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *The difference from the average value.*
-* *Download all your typing data in JSON format.*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *The detailed statistics regarding your learning progress.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
 * ...
 
 # Mongolian
 
 Translated: 16 messages, 378 words
 
-Untranslated: 331 messages, 4365 words
+Untranslated: 344 messages, 4387 words
 
 * *GO!*
+* *WPM*
 * *Copy*
 * *Done*
 * *Help*
+* *Next*
 * *Next*
 * *Time*
 * *User*
@@ -681,51 +733,61 @@ Untranslated: 331 messages, 4365 words
 * *Font:*
 * *Reset*
 * *Retry*
+* *Retry*
 * *Score*
 * *Speed*
 * *Speed*
+* *Start*
 * *Visit*
-* *Digits*
-* *Errors*
-* *Layout*
-* *Resend*
 * ...
 
 # Norwegian Bokmål
 
 Translated: 211 messages, 2445 words
 
-Untranslated: 141 messages, 2343 words
+Untranslated: 154 messages, 2365 words
 
+* *WPM*
 * *Done*
 * *Help*
+* *Next*
 * *Books*
 * *Font:*
+* *Retry*
 * *Speed*
+* *Start*
+* *Course*
 * *Account*
 * *KeybrAR*
 * *Accuracy*
+* *Accuracy*
 * *Settings*
 * *Alphabet:*
+* *Available*
+* *Completed*
 * *Examples:*
-* *All sounds*
-* *Daily goal*
-* *Last speed*
-* *Custom text*
-* *Daily goal:*
-* *Smoothness:*
-* *Whitespace:*
-* *Cursor shape:*
-* *Learning rate*
+* *Try again*
 * ...
 
 # Nepali
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -733,50 +795,55 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Dutch
 
 Translated: 333 messages, 4735 words
 
-Untranslated: 23 messages, 104 words
+Untranslated: 36 messages, 126 words
 
+* *WPM*
+* *Next*
+* *Retry*
 * *Score*
+* *Start*
+* *Course*
 * *Zones:*
 * *Account*
 * *KeybrAR*
 * *Letters*
 * *Volume:*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
 * *Multiplayer*
+* *Premium plan*
 * *Key sounds only*
-* *Premium account*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
 * ...
 
 # Polish
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -784,104 +851,111 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Brazilian Portuguese
 
 Translated: 338 messages, 4742 words
 
-Untranslated: 19 messages, 99 words
+Untranslated: 32 messages, 121 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *Layout*
 * *KeybrAR*
 * *Layout:*
 * *Layouts*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
 * *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # European Portuguese
 
 Translated: 319 messages, 4617 words
 
-Untranslated: 36 messages, 202 words
+Untranslated: 49 messages, 224 words
 
+* *WPM*
+* *Next*
 * *Books*
+* *Retry*
+* *Start*
+* *Course*
 * *Layout*
 * *Zones:*
 * *KeybrAR*
 * *Layout:*
 * *Layouts*
 * *Volume:*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
 * *Top score!*
 * *Top speed!*
-* *Sound theme:*
-* *Top accuracy*
-* *Explain charts*
-* *Key sounds only*
-* *Average accuracy*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Relative Accuracy*
-* *Repeat each word:*
-* *Structured Course*
+* *Well done!*
 * ...
 
 # Romanian
 
 Translated: 298 messages, 3586 words
 
-Untranslated: 52 messages, 1211 words
+Untranslated: 65 messages, 1233 words
 
+* *WPM*
+* *Next*
 * *Font:*
+* *Retry*
+* *Start*
+* *Course*
 * *Layout*
 * *Zones:*
 * *Account*
 * *KeybrAR*
 * *Layout:*
 * *Layouts*
+* *Accuracy*
+* *Available*
+* *Completed*
 * *Translate*
+* *Try again*
+* *Course Map*
+* *Well done!*
 * *Multiplayer*
-* *Sound theme:*
-* *Top accuracy*
-* *Forgive errors*
-* *Key sounds only*
-* *Average accuracy*
-* *Start the Course*
-* *Adaptive Practice*
-* *Progress Tracking*
-* *Relative Accuracy*
-* *Repeat each word:*
-* *Structured Course*
 * ...
 
 # Russian
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -889,70 +963,83 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Slovak
 
 Translated: 340 messages, 4744 words
 
-Untranslated: 17 messages, 97 words
+Untranslated: 30 messages, 119 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
 * *Syntax:*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
 * *Progress Tracking*
 * *Structured Course*
 * *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Slovenian
 
 Translated: 340 messages, 4744 words
 
-Untranslated: 17 messages, 97 words
+Untranslated: 30 messages, 119 words
 
+* *WPM*
+* *Next*
 * *Font:*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
 * *Progress Tracking*
 * *Structured Course*
 * *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Albanian
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -960,104 +1047,111 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Swedish
 
 Translated: 338 messages, 4742 words
 
-Untranslated: 19 messages, 99 words
+Untranslated: 32 messages, 121 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *Layout*
 * *KeybrAR*
 * *Layout:*
 * *Syntax:*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
 * *Progress Tracking*
-* *Structured Course*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Thai
 
 Translated: 329 messages, 4634 words
 
-Untranslated: 26 messages, 185 words
+Untranslated: 39 messages, 207 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *Zones:*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Sound theme:*
 * *Top accuracy*
 * *Key sounds only*
 * *Average accuracy*
 * *Start the Course*
 * *Adaptive Practice*
-* *Progress Tracking*
-* *Relative Accuracy*
-* *Repeat each word:*
-* *Structured Course*
-* *Premium account price:*
-* *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
 * ...
 
 # Turkish
 
 Translated: 227 messages, 2125 words
 
-Untranslated: 125 messages, 2661 words
+Untranslated: 138 messages, 2683 words
 
+* *WPM*
+* *Next*
 * *Books*
 * *Font:*
+* *Retry*
+* *Start*
+* *Course*
 * *Zones:*
 * *KeybrAR*
 * *Metrics*
 * *Preview*
 * *Sign-In*
 * *Syntax:*
+* *Accuracy*
 * *Alphabet:*
+* *Available*
+* *Completed*
+* *Try again*
 * *Box cursor*
-* *Line cursor*
-* *Source code*
-* *Whitespace:*
-* *Block cursor*
-* *Top accuracy*
-* *No whitespace*
-* *Smooth cursor*
-* *Bar whitespace*
-* *Emulate layout*
-* *Explain charts*
+* *Course Map*
 * ...
 
 # Ukrainian
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -1065,22 +1159,27 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Vietnamese
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -1088,22 +1187,27 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Simplified Chinese
 
 Translated: 340 messages, 4738 words
 
-Untranslated: 17 messages, 103 words
+Untranslated: 30 messages, 125 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *M|T|W|T|F|S|S*
 * *Key sounds only*
 * *Start the Course*
@@ -1111,23 +1215,27 @@ Untranslated: 17 messages, 103 words
 * *Progress Tracking*
 * *Structured Course*
 * *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Traditional Chinese
 
 Translated: 341 messages, 4745 words
 
-Untranslated: 16 messages, 96 words
+Untranslated: 29 messages, 118 words
 
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
@@ -1135,35 +1243,32 @@ Untranslated: 16 messages, 96 words
 * *Structured Course*
 * *Ready for the next level?*
 * *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...
 
 # Chinese (Taiwan)
 
 Translated: 340 messages, 4744 words
 
-Untranslated: 17 messages, 97 words
+Untranslated: 30 messages, 119 words
 
 * *GO!*
+* *WPM*
+* *Next*
+* *Retry*
+* *Start*
+* *Course*
 * *KeybrAR*
+* *Accuracy*
+* *Available*
+* *Completed*
+* *Try again*
+* *Course Map*
+* *Well done!*
+* *Premium plan*
 * *Key sounds only*
 * *Start the Course*
 * *Adaptive Practice*
 * *Progress Tracking*
 * *Structured Course*
 * *Ready for the next level?*
-* *Learn touch typing in Arabic*
-* *KeybrAR — Arabic touch-typing lessons*
-* *Learn Arabic touch-typing at the speed of thought.*
-* *Five structured units that take you from zero to fluent.*
-* *Lessons that adapt to your level — no boring repetition.*
-* *KeybrAR is a fork of keybr.com by Aliaksandr Radzivanovich.*
-* *Detailed stats on your speed and accuracy with every lesson.*
-* *A smart algorithm generates exercises tailored to your weak ...*
-* *Arabic word data from hermitdave/FrequencyWords, licensed CC...*
+* ...

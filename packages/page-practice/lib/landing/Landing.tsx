@@ -76,8 +76,7 @@ export function Landing(): ReactNode {
             defaultMessage="Ready for the next level?"
           />
         </p>
-        {/* /course lands in S4 (FILE_04_COURSE_ENGINE.md); CTA points to sign-up until then. */}
-        <RouterLink className={styles.cta} to={Pages.account.path}>
+        <RouterLink className={styles.cta} to={Pages.course.path}>
           <FormattedMessage
             id="landing.course.cta"
             defaultMessage="Start the Course"

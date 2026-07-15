@@ -144,6 +144,34 @@ export class Controller {
     return this.renderPage(ctx, Pages.typingTest, intl);
   }
 
+  @http.GET(`${Pages.course.path}`)
+  async ["course"](ctx: Context<RouterState & AuthState>) {
+    return this.renderPage(ctx, Pages.course);
+  }
+
+  @http.GET(`/{locale:${localePattern}}${Pages.course.path}`)
+  async ["course-i18n"](
+    ctx: Context<RouterState & AuthState>,
+    @pathParam("locale", pIntl) intl: IntlShape,
+  ) {
+    return this.renderPage(ctx, Pages.course, intl);
+  }
+
+  @http.GET(`${Pages.course.path}/{lessonId:[a-zA-Z0-9-]+}`)
+  async ["course-lesson"](ctx: Context<RouterState & AuthState>) {
+    return this.renderPage(ctx, Pages.course);
+  }
+
+  @http.GET(
+    `/{locale:${localePattern}}${Pages.course.path}/{lessonId:[a-zA-Z0-9-]+}`,
+  )
+  async ["course-lesson-i18n"](
+    ctx: Context<RouterState & AuthState>,
+    @pathParam("locale", pIntl) intl: IntlShape,
+  ) {
+    return this.renderPage(ctx, Pages.course, intl);
+  }
+
   @http.GET(`${Pages.multiplayer.path}`)
   async ["multiplayer"](ctx: Context<RouterState & AuthState>) {
     return this.renderPage(ctx, Pages.multiplayer);

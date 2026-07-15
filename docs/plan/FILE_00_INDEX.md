@@ -49,7 +49,7 @@ Cloudflare. Target ~5,000 daily users. Full product spec: **`SPEC_V2.md`**.
 | 1 | FILE_01_FORK_BUILD.md | Fork + Windows build + dev server + Arabic/RTL baseline | ✅ DONE |
 | 2 | FILE_02_ARABIC_FIRST.md | Arabic quality audit + Arabic-first defaults (`/`=ar) + rebrand basics | ✅ DONE |
 | 3 | FILE_03_THEME_LANDING.md | KeybrAR theme (default) + logo + redesigned landing | |
-| 4 | FILE_04_COURSE_ENGINE.md | Course content package + /course page + lesson player, unit 1 free | |
+| 4 | FILE_04_COURSE_ENGINE.md | Course content package + /course page + lesson player, unit 1 free | ✅ DONE |
 | 5 | FILE_05_PREMIUM.md | Progress DB/API + premium gating + Paddle checkout (sandbox) | |
 | 6 | FILE_06_CURRICULUM.md | Full curriculum units 2–5 + Arabic copy polish | |
 | 7 | FILE_07_DEPLOY.md | VPS + Cloudflare + OAuth + Paddle production | |
