@@ -25,6 +25,10 @@ export class ThemeList implements Iterable<Theme> {
 
 export const COLORS = new ThemeList([
   {
+    id: "keybrar",
+    name: "KeybrAR",
+  },
+  {
     id: "system",
     name: "System",
   },

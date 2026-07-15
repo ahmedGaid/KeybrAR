@@ -59,6 +59,41 @@ files (new packages, new pages) are NOT listed — only edits to shared files.
   `footer.wordsCreditLink.description`; updated `footer.githubLink.description`
   text (keybr.com → KeybrAR).
 
+## Session 3 — KeybrAR theme + logo + landing
+
+- `packages/keybr-themes/lib/themes/themes.ts` — added a `keybrar` entry as the
+  **first** item in the `COLORS` `ThemeList` (list order = default; `.default`
+  returns `#themes[0]`). Makes the KeybrAR warm terracotta/sand theme the
+  out-of-box default for anonymous visitors.
+- `packages/keybr-themes/lib/themes/index.less` — `@import` of the new
+  `theme-9-keybrar.less` (new additive file, not a shared-file edit).
+- `packages/keybr-pages-browser/lib/NavMenu.tsx` — render the new `Logo`
+  wordmark (new additive `Logo.tsx`/`Logo.module.less`) in the nav.
+- `packages/keybr-pages-server/lib/entry.ts` + `lib/meta.tsx` — wire the new
+  `favicon.svg` (new additive asset) as the SVG favicon; old PNG favicons kept
+  as fallback (real multi-res PNG regen still pending — no rasterizer this
+  session).
+- `packages/page-practice/lib/PracticePage.tsx` — render the new `Landing`
+  (new additive `lib/landing/`) above the live lesson **only** for anonymous
+  users (`publicUser.id == null`); keybr's instant-typing hook stays intact.
+- `packages/keybr-intl/translations/en.json` + `ar.json` (source) and generated
+  `lib/messages/*.json` (via `npm run translate`) — added 10 `landing.*` keys
+  (hero title/subhead, 3 feature card titles+bodies, course CTA strip).
+
+### Session 3 — pre-existing test failures fixed (caused by S2's Arabic-default flip, surfaced now)
+
+- `packages/keybr-intl/lib/locale.test.ts` — unmatched-locale fallthrough now
+  resolves to `ar` (was `en`); updated `filter()`, `filter("xx")`,
+  `filter("en-CA")` assertions.
+- `packages/keybr-pages-server/lib/Shell.test.tsx` + `ErrorPage.test.tsx` —
+  `data-color` default assertion `system` → `keybrar` (4 spots).
+- `packages/page-practice/lib/PracticePage.test.tsx`,
+  `practice/PracticeScreen.test.tsx`, `settings/SettingsScreen.test.tsx` —
+  pin an explicit English keyboard (`KeyboardOptions…withLanguage(EN)
+  .withLayout(EN_US)`) in the fixture. `FakePhoneticModel` is English-only, so
+  under the new Arabic-default keyboard the guided lesson generator found zero
+  letter overlap and threw / filtered out the Latin custom text.
+
 ### Explicitly NOT touched (traps identified during audit)
 
 - `scripts/locale.js` — a **separate**, hardcoded `defaultLocale = "en"` used

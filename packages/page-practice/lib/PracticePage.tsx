@@ -1,6 +1,8 @@
 import { KeyboardOptions, Language, Layout } from "@keybr/keyboard";
+import { usePageData } from "@keybr/pages-shared";
 import { Settings } from "@keybr/settings";
 import { ViewSwitch } from "@keybr/widget";
+import { Landing } from "./landing/Landing.tsx";
 import { views } from "./views.tsx";
 
 setDefaultLayout(window.navigator.language);
@@ -20,5 +22,11 @@ function setDefaultLayout(localeId: string) {
 }
 
 export function PracticePage() {
-  return <ViewSwitch views={views} />;
+  const { publicUser } = usePageData();
+  return (
+    <>
+      {publicUser.id == null && <Landing />}
+      <ViewSwitch views={views} />
+    </>
+  );
 }

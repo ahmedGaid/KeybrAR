@@ -39,6 +39,12 @@ export function AltLangLinks({ page }: { readonly page: PageInfo }): ReactNode {
 
 export const favIcons: readonly FavIconLink[] = [
   {
+    href: "/assets/favicon.svg",
+    rel: "icon",
+    type: "image/svg+xml",
+    sizes: "any",
+  },
+  {
     href: "/assets/favicon-16x16.png",
     rel: "icon",
     type: "image/png",

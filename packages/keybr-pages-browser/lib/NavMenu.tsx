@@ -10,6 +10,7 @@ import { clsx } from "clsx";
 import { type ReactNode } from "react";
 import { useIntl } from "react-intl";
 import { NavLink } from "react-router";
+import { Logo } from "./Logo.tsx";
 import * as styles from "./NavMenu.module.less";
 import { SubMenu } from "./SubMenu.tsx";
 import { ThemeSwitcher } from "./themes/ThemeSwitcher.tsx";
@@ -18,6 +19,10 @@ export function NavMenu({ currentPath }: { readonly currentPath: string }) {
   const { publicUser } = usePageData();
   return (
     <div className={styles.root}>
+      <MenuItem>
+        <Logo />
+      </MenuItem>
+
       <MenuItem>
         <AccountLink user={publicUser} />
       </MenuItem>

@@ -7,11 +7,11 @@ test("select locale", () => {
     (...found: string[]) =>
     (...locales: string[]) =>
       locales.find((locale) => found.includes(locale)) ?? null;
-  equal(selectLocale(filter()), "en");
-  equal(selectLocale(filter("xx")), "en");
+  equal(selectLocale(filter()), "ar");
+  equal(selectLocale(filter("xx")), "ar");
   equal(selectLocale(filter("en")), "en");
   equal(selectLocale(filter("en-US")), "en");
-  equal(selectLocale(filter("en-CA")), "en");
+  equal(selectLocale(filter("en-CA")), "ar");
   equal(selectLocale(filter("pt")), "pt-br");
   equal(selectLocale(filter("pt-BR")), "pt-br");
   equal(selectLocale(filter("pt-PT")), "pt-pt");

@@ -1,21 +1,30 @@
 import { test } from "node:test";
 import { FakeIntlProvider } from "@keybr/intl";
+import { KeyboardOptions, Language, Layout } from "@keybr/keyboard";
 import { FakePhoneticModel } from "@keybr/phonetic-model";
 import { PhoneticModelLoader } from "@keybr/phonetic-model-loader";
 import { FakeResultContext, ResultFaker } from "@keybr/result";
-import { FakeSettingsContext } from "@keybr/settings";
+import { FakeSettingsContext, Settings } from "@keybr/settings";
 import { fireEvent, render } from "@testing-library/react";
 import { isNotNull } from "rich-assert";
 import { SettingsScreen } from "./SettingsScreen.tsx";
 
 const faker = new ResultFaker();
 
+// FakePhoneticModel is English-only; pin an English keyboard so the lesson
+// preview renders instead of crashing on KeybrAR's Arabic-first default
+// (@keybr/keyboard settings.ts).
+const englishSettings = KeyboardOptions.default()
+  .withLanguage(Language.EN)
+  .withLayout(Layout.EN_US)
+  .save(new Settings());
+
 test("render", async () => {
   PhoneticModelLoader.loader = FakePhoneticModel.loader;
 
   const r = render(
     <FakeIntlProvider>
-      <FakeSettingsContext>
+      <FakeSettingsContext initialSettings={englishSettings}>
         <FakeResultContext initialResults={faker.nextResultList(100)}>
           <SettingsScreen />
         </FakeResultContext>

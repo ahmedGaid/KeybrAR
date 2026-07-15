@@ -37,7 +37,7 @@ test("render", () => {
     "prefix": "og: http://ogp.me/ns#",
     "lang": "en",
     "dir": "ltr",
-    "data-color": "system",
+    "data-color": "keybrar",
     "data-font": "open-sans",
   });
   isTrue(html.includes("google"));
@@ -75,7 +75,7 @@ test("render alt", () => {
     "prefix": "og: http://ogp.me/ns#",
     "lang": "en",
     "dir": "ltr",
-    "data-color": "system",
+    "data-color": "keybrar",
     "data-font": "open-sans",
   });
   isFalse(html.includes("google"));
@@ -115,7 +115,7 @@ test("render for a bot", () => {
     "prefix": "og: http://ogp.me/ns#",
     "lang": "en",
     "dir": "ltr",
-    "data-color": "system",
+    "data-color": "keybrar",
     "data-font": "open-sans",
   });
   equal($("nav").length, 1);
